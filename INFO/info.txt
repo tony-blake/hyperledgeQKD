@@ -1,0 +1,8 @@
+Name: Andre Reis
+Email address: andrebrreis@gmail.com
+Age: 22
+Occupation: Student
+University: TUDelft (Erasmus from UPorto)
+Title: QuaRT - Quantum Reliable Transfer
+Abstract: Quantum Reliable Transfer is a P2P command line application that allows two parties to transfer files with theoretically perfect secrecy. The software generates shared keys of variable length with the Quantum Key Distribution BB84 protocol, using Cascade for error correction and Toeplitz matrices for privacy amplification. The generated keys are used with one-time pad encryption to provide perfect secrecy and to ensure integrity and authenticity, all communication is done over an EC-DSA authenticated channel taking advantage of an existing Public Key Infrastructure
+edX username: andrebreis
